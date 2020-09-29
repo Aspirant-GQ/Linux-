@@ -1,4 +1,5 @@
-@[TOC]
+CSDN博客地址：https://blog.csdn.net/qq_43743762/article/details/108857503
+
 
 Linux系统启动初始化的主要流程是：
 
